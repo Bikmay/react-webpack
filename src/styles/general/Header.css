@@ -1,0 +1,12 @@
+.test{
+    color:red;
+}
+
+.headerButton{
+   display: inline-block;
+}
+.buttons{
+    float: right;
+    position: relative;
+    right: 20px;
+}
